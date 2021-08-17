@@ -1,0 +1,10 @@
+D:\Projeler\Car Race\Car Race\bin\Debug\Car Race.exe.config
+D:\Projeler\Car Race\Car Race\bin\Debug\Car Race.exe
+D:\Projeler\Car Race\Car Race\bin\Debug\Car Race.pdb
+D:\Projeler\Car Race\Car Race\obj\Debug\Car Race.csprojAssemblyReference.cache
+D:\Projeler\Car Race\Car Race\obj\Debug\Car_Race.CarRace.resources
+D:\Projeler\Car Race\Car Race\obj\Debug\Car_Race.Properties.Resources.resources
+D:\Projeler\Car Race\Car Race\obj\Debug\Car Race.csproj.GenerateResource.cache
+D:\Projeler\Car Race\Car Race\obj\Debug\Car Race.csproj.CoreCompileInputs.cache
+D:\Projeler\Car Race\Car Race\obj\Debug\Car Race.exe
+D:\Projeler\Car Race\Car Race\obj\Debug\Car Race.pdb
